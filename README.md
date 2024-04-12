@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Taher Ghazel</h1>
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medtaherghazel" alt="medtaherghazel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medtaherghazel" alt="medtaherghazel" /></a> </p> -->
 
 - 🔭 I’m currently working on **Freenety**
 
 - 📫 How to reach me **medtaherghazel@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

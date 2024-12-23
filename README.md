@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Taher Ghazel</h1>
 
-- 🔭 I’m currently working on **Freenety**
+- 🔭 I’m currently working on **Futurum**
 
 - 📫 How to reach me **medtaherghazel@gmail.com**
 

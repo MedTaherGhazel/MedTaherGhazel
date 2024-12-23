@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on **Freenety**
 
 - 📫 How to reach me **medtaherghazel@gmail.com**
+- 
+- 🌐 Check out my portfolio: [Portfolio](https://ghazel.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
